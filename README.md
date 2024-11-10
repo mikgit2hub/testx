@@ -7,7 +7,11 @@ aha
 ist im hub nicht mehr
 
 
-2 version
+
+git add R*
+git commit -m "first commit"
+git push -u origin main
+
 
 
 # testy
